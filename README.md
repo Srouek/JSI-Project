@@ -44,6 +44,13 @@ Candidature spontané
 Ou il pourront envoyer CV et lettre de motivation 
 
 ______________________________________________________________________________
+Conccurent
+
+http://www.alenjohnson.fr/
+
+https://www.wellstone.fr/
+
+______________________________________________________________________________
 
 ETAPE 1 
 -------------
