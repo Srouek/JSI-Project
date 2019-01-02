@@ -1,7 +1,6 @@
 # JSI-Project
 site d'un cabinet conseil en immobilier 
 
----------------------------------------------
 Projet 
 
 Ils ont un nouveau nom de domaine avec nom du site il attende juste le contenus 
@@ -45,6 +44,16 @@ Candidature spontané
 Ou il pourront envoyer CV et lettre de motivation 
 
 ______________________________________________________________________________
+
+
+Conccurent
+
+http://www.alenjohnson.fr/
+
+https://www.wellstone.fr/
+
+______________________________________________________________________________
+
 
 ETAPE 1 
 -------------
