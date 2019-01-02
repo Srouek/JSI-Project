@@ -2,17 +2,36 @@
 * {
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+a {
+	text-decoration: none;
+}
 
 /* NAV */
 body {
+	margin: 0;
 	display: flex;
 	flex-direction: column;
 }
 h1 {
-	margin-left: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0;
+	height: 100px;
+	width: 100%;
+	background-color: darkblue;
+	color: white;
 }
 nav {
+	background-color: darkblue;
+	position: fixed;
+	bottom: 0;
 	width: 100%;
+	height: 100px;
 	display: flex;
 	justify-content: space-around;
+	align-items: center;
+}
+a {
+	color: white;
 }
