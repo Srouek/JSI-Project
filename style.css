@@ -1,0 +1,17 @@
+/*********************************************
+* GLOBAL
+********************************************/
+
+body {
+    color: blue;
+    background-color: white;
+}
+
+section {
+    height: 30rem;
+    background-color: aquamarine
+}
+
+section.description {
+    background-color: azure
+}

@@ -1,7 +1,3 @@
-# JSI-Project
-site d'un cabinet conseil en immobilier 
-
----------------------------------------------
 Projet 
 
 Ils ont un nouveau nom de domaine avec nom du site il attende juste le contenus 
@@ -63,7 +59,6 @@ Page Formulaire
 
 Méthode utilisé 
 ______________________________________________________________________________
-
 
 
 
