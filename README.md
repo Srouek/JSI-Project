@@ -60,15 +60,16 @@ ETAPE 1
 
 Design et CSS
 
-*	Page d’accueil site immobilier
-*	Page de Services 
-*	Page d’Expertise (Recherche et Calculateur de Besoin)
-*	Page d’Actu Immobilière
-*	Page Contact & Recrutement 
+*	Template Page d’accueil site immobilier
+*	Template Page de Services 
+*	Template Page Simulateur (Recherche et Calculateur de Besoin)
+* Template Page resultat recherche
+*	Page d’Actu Immobilière (optionelle)
+*	Template Page Contact & Recrutement (recrutement dans le footer 
 
 +
-Page Annonce
-Page Formulaire
+Template Back Page Annonce
+Template Back Page Formulaire
 
 Méthode utilisé 
 ______________________________________________________________________________
